@@ -1,15 +1,15 @@
-# KPC 부트캠프(로컬 싱크) — 4단계: 프로토타입
+# 로컬 싱크 — 4단계 — 프로토타입 만들기
 
-## 설치 — 한 줄 (권장, npx)
+## 설치
+
 ```bash
-npx skills@latest add <내-github-아이디>/kpc-bootcamp-phase4 -a codex -g -y
+npx skills@latest add AndrewMINU/kpc-bootcamp-phase4 -a codex -g -y
 ```
-- 그다음 Codex에서 `/skills` 확인 → `$bootcamp-start` 로 시작.
-- 진행 상태(context.md)는 Codex 작업 폴더에 남아 단계가 바뀌어도 이어집니다.
 
-1단계(kpc-bootcamp-phase1)를 먼저 설치했어야 합니다.
-다음 단계 레포는 때가 되면 운영진이 공유합니다(kpc-bootcamp-phase5).
+## 시작
 
-## 업데이트 / 폴백
-- 업데이트: `npx skills@latest update`
-- npx가 막히면: 이 레포 clone 후 `bash install.sh`
+```
+$bootcamp-start
+```
+
+지금 어디까지 왔는지 보고, **다음 한 걸음**을 안내해줍니다.
